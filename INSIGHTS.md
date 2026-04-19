@@ -1,0 +1,7 @@
+- A few customers spend way more than everyone else.
+- Electronics brings in the most money by far.
+- Furniture is second but not close to Electronics.
+- Grocery and Stationery don’t contribute much.
+- Only a few employees make more than their department average.
+- Tampa is the only city with Gold customers.
+- Most loyal customers are concentrated in one location.
