@@ -19,4 +19,3 @@ This project demonstrates the use of SQL and SQLite to query, filter, and analyz
 2. Run the provided SQL queries
 3. View the output results in the query tab
 
-## Project Structure
